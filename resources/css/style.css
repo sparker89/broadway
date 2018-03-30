@@ -41,3 +41,7 @@ a {
 .copyright {
   font-size: 11px;
 }
+
+.left {
+  text-align: left;
+}
